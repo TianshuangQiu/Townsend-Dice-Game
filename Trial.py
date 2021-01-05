@@ -41,3 +41,4 @@ for test in range(0, 1000000):
     #print("test ", test, " has score ", result)
 
 print(winner)
+# result: around 17% win rate
